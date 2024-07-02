@@ -1,6 +1,6 @@
 # Secure Data SSL Certificate Management Tool (SDSCMT)
 
-Secure Data Certificate Format Converter (SDCFC) is a powerful tool for generating and managing self signed ssl certificates and private key files, offering seamless conversion between PEM, DER, and PKCS12 formats as well. Whether you need to generate, convert, or manage self signed ssl certificates, SDSCMT provides a user-friendly interface to get the job done.
+Secure Data SSL Certificate Management Tool (SDSCMT) is a powerful tool for generating and managing self signed ssl certificates and private key files, offering seamless conversion between PEM, DER, and PKCS12 formats as well. Whether you need to generate, convert, or manage self signed ssl certificates, SDSCMT provides a user-friendly interface to get the job done.
 
 ## Other Tools From SD(Secure Data) series
 1. SDCFC(Tool for key conversion from one format to another) - https://pypi.org/project/sdcfc/ 
