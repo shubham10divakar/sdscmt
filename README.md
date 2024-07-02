@@ -2,6 +2,10 @@
 
 Secure Data Certificate Format Converter (SDCFC) is a powerful tool for generating and managing self signed ssl certificates and private key files, offering seamless conversion between PEM, DER, and PKCS12 formats as well. Whether you need to generate, convert, or manage self signed ssl certificates, SDSCMT provides a user-friendly interface to get the job done.
 
+## Other Tools From SD(Secure Data) series
+1. SDCFC(Tool for key conversion from one format to another) - https://pypi.org/project/sdcfc/ 
+2. SDSCMT - https://pypi.org/project/sdscmt/
+
 ## Features
 - Generate Self Signed Certificates
 - Validate existing self signed ssl certs
@@ -78,15 +82,15 @@ Enter the filename to save the certificate(endind with .crt): gbu_cert.crt
 Enter password to encrypt the private key (leave blank for no encryption):
 Private key saved to gbu_private_key.key
 Certificate saved to gbu_cert.crt
+```sh
 
-
-Connect with Me
+##Connect with Me
 
     LinkedIn: https://www.linkedin.com/in/subham-divakar-a7420a12a/
     GitHub: https://github.com/shubham10divakar
     Portfolio: https://shubham10divakar.github.io/showcasehub/
 
-Feedback
+##Feedback
 
 Your feedback is important! Please share your thoughts and suggestions.
 License
