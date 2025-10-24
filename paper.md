@@ -1,5 +1,5 @@
 ---
-title: "SDSCMT: A Python Tool for Managing Self-Signed SSL Certificates"
+title: "SDSCMT: A Python Package for Secure and Reproducible Certificate Management in Scientific Computing"
 authors:
   - name: Subham Divakar
     orcid: 0000-0003-0635-1058
